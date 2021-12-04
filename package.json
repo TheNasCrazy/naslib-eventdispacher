@@ -1,5 +1,5 @@
 {
-    "name": "naslib-eventdispacher",
+    "name": "naslib-eventdispatcher",
     "version": "0.0.1",
     "description": "greate EventDispatcher",
     "main": "lib/index.js",
