@@ -1,2 +1,0 @@
-# naslib-eventdispacher
-EventDispatcher
